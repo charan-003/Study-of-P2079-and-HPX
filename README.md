@@ -1,5 +1,7 @@
 ## Exploring High Performance Scheduling: A Comparative Study of P2079 and HPX
 
+[Exploring High Performance Scheduling: A Comparative Study of P2079 and HPX]([url](https://docs.google.com/document/d/1cfYmVl4atqdxcjnk6Bj4lyvdwWbBtQmf1nDdFg2e4xM/edit?tab=t.0))
+
 ### Overview
 This project presents a comparative study of **P2079 (system_scheduler)** and **HPX**, focusing on high-performance task scheduling for parallel workloads. P2079 is a lightweight scheduler optimized for memory efficiency and execution speed, while HPX is a scalable parallel computing framework. 
 
