@@ -1,0 +1,9 @@
+Benchmarking on a system with 8 CPU cores, 8 threads, and a max frequency of 3228.00 MHz.
+
+Performance Comparison:
+| Metric               | HPX Execution | P2079-based Execution |
+|----------------------|-------------------|-----------------------|
+| Execution Time (s)   | 0.81         | 0.60         |
+| CPU Utilization (%)  | 33.26%        | 22.46%        |
+| Max Threads Used     | 5          | 4          |
+| Memory Usage (MB)    | 12.77 MB      | 4.87 MB      |

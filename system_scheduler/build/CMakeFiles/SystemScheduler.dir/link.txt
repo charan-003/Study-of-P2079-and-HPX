@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libSystemScheduler.a CMakeFiles/SystemScheduler.dir/system_scheduler.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libSystemScheduler.a
